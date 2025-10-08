@@ -59,7 +59,7 @@ To analyze pizza sales patterns and provide actionable insights for:
 - 📊 Average Pizzas Per Order: **3.26**
 
 ### Best/Worst Sellers Dashboard
-![Sellers Dashboard](\\images\\best_or_worst_dashboard.png)
+![Sellers Dashboard](/images/best_or_worst_dashboard.png)
 
 ---
 
