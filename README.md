@@ -49,7 +49,8 @@ To analyze pizza sales patterns and provide actionable insights for:
 ## 📈 Dashboard Preview
 
 ### Home Dashboard
-![Home Dashboard](C:\Users\vikra\OneDrive\Desktop\Sales Analysis\images\home_dashboard.png)
+![Home Dashboard](<img width="882" height="483" alt="home_dashboard" src="https://github.com/user-attachments/assets/b76a5506-7ab0-4008-ba42-3fc3149f25cb" />
+)
 
 **Key Metrics:**
 - 💰 Total Revenue: **$1.15M**
