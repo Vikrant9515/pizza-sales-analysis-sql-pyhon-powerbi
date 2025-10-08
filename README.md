@@ -49,7 +49,7 @@ To analyze pizza sales patterns and provide actionable insights for:
 ## 📈 Dashboard Preview
 
 ### Home Dashboard
-![Home Dashboard](home_dashboard.png)
+![Home Dashboard](\images\home_dashboard.png)
 
 **Key Metrics:**
 - 💰 Total Revenue: **$1.15M**
@@ -59,7 +59,7 @@ To analyze pizza sales patterns and provide actionable insights for:
 - 📊 Average Pizzas Per Order: **3.26**
 
 ### Best/Worst Sellers Dashboard
-![Sellers Dashboard](best_or_worst_dashboard.png)
+![Sellers Dashboard](\images\best_or_worst_dashboard.png)
 
 ---
 
