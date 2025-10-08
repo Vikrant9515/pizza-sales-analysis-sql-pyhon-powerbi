@@ -296,7 +296,7 @@ This project demonstrates proficiency in:
 ## 📧 Contact & Author
 
 **Your Name**  
-📧 Email: your.email@example.com  
+📧 Email: your.vikrantkprajapati@gmail.com  
 💼 LinkedIn: [linkedin.com/in/vikrant-shekhar-prajapati-61a6a3307/](https://linkedin.com/in/vikrant-shekhar-prajapati-61a6a3307/)  
 🐱 GitHub: [github.com/vi.krant9515](https://github.com/vi.krant9515)  
 
